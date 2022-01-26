@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
 - 💬 Ask me about AutoCAD, Cars(Automobile), Mobile Photography, Stock Market 
-- 📫 How to reach me: [Linkedin - Pritam Patro](https://www.linkedin.com/in/pritam-patro-17ba00220/) , [Twitter - @pritam_patro7](https://twitter.com/pritam_patro7)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pritam-patro-17ba00220/) , [Twitter](https://twitter.com/pritam_patro7)
 - ⚡ Fun fact: 
 -->
 <h3 align="left">Languages and Tools:</h3>
