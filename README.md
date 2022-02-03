@@ -1,6 +1,6 @@
 <h2 align="center">  Hi there👋,this is Pritam </h2>
 
-- 🔭 I’m currently working on a [Virtual Experience Program ](https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk?ref=oJWkkEG8pJZd7Bw7A)
+- 🔭 I’m currently working on a Virtual internship experience program
 - 🌱 I’m currently learning C Language
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
