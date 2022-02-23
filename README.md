@@ -1,4 +1,4 @@
-<h2 align="center">  Hi there👋,this is Pritam </h2>
+<h2 align="center">  Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> this is Pritam </h2>
 
 - 🔭 I’m currently working on developing my programming skills.
 - 🌱 I’m currently learning C Language
