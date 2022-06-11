@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working on developing my programming skills.
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning C/C++ and CSS
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
 - 💬 Ask me about MS Excel, Cars(Automobile), Mobile Photography, Stock Market 
