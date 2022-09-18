@@ -4,7 +4,7 @@
   <img src="https://github.com/pritam-patro/pritam-patro/blob/main/banner.gif.gif" alt="header"/>
 </div>
 
-- 🔭 I’m currently working on developing my programming skills.
+- 🔭 I’m currently working on developing my programming skills and Full Stack Develpoment
 - 🌱 I’m currently learning C/C++ and CSS
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
