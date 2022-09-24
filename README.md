@@ -19,8 +19,6 @@
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-patro&show_icons=true&locale=en&layout=compact" alt="pritam-patro" /></p>
 
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-patro&" alt="pritam-patro" /></p>
-
 <img src="https://komarev.com/ghpvc/?username=pritam-patro&label=Profile+views&color=129e00&style=plastic">
 
 <h3 align="left">Connect with me:</h3>
