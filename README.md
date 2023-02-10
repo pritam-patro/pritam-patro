@@ -5,10 +5,9 @@
 </div>
 
 - 🔭 I’m currently working on developing my programming skills and Full Stack Develpoment
-- 🌱 I’m currently learning C/C++ and CSS
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
-- 💬 Ask me about MS Excel, Cars(Automobile), Mobile Photography, Stock Market 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pritam-patro-17ba00220/) , [Twitter](https://twitter.com/pritam_patro7), [Instagram](https://www.instagram.com/pritampatro7/)
 - ⚡ Fun fact: 
 -->
