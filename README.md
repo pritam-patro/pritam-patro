@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Internships and Projects
 - 🤔 I’m looking for help with Programming and Development
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pritam-patro-17ba00220/) , [Twitter](https://twitter.com/pritam_patro7), [Instagram](https://www.instagram.com/pritampatro7/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pritam-patro/) , [Twitter](https://twitter.com/pritam_patro7), [Instagram](https://www.instagram.com/pritampatro7/)
 - ⚡ Fun fact: 
 -->
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@pritam_patro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pritam_patro7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pritam-patro-17ba00220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-patro-17ba00220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritam-patro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-patro-17ba00220" height="30" width="40" /></a>
 <a href="https://instagram.com/pritampatro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritampatro7" height="30" width="40" /></a>
 </p>
