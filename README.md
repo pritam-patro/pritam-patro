@@ -4,7 +4,7 @@
   <img src="https://github.com/pritam-patro/pritam-patro/blob/main/banner.gif.gif" alt="header"/>
 </div>
 
-<p align ="justify"><samp>I'm Pritam Patro from Hyderabad, India. I'm a dedicated and driven individual who embraces challenges, seeks continuous growth, and specializes in data science, machine learning, and front-end development. With strong teamwork and leadership skills, I leverage data-driven insights and front-end expertise to solve complex problems and make informed decisions, contributing effectively to various endeavors.
+<p align ="justify"><samp>I'm a dedicated and driven individual who thrives on challenges and sets ambitious goals. My determination and focus help me push boundaries and achieve targets. Passionate about personal and professional growth, I actively seek opportunities to enhance my skills and knowledge. My curiosity fuels my desire to learn and explore, driving both personal and career advancement. I am particularly fascinated by machine learning and its potential to revolutionize industries. Staying updated with the latest advancements is a priority for me. I value collaboration and teamwork, leveraging my leadership and team spirit to achieve shared goals. Diverse projects have enriched my perspective and positively influence my contributions.
   </samp></p>
 
 ## 🌐 Socials:
